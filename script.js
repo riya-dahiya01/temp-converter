@@ -39,5 +39,5 @@ kelInput.addEventListener('input', function(){
 btn.addEventListener('click', ()=>{
     celInput.value = ""
     fahInput.value = ""
-    // kelInput.value = ""
+    kelInput.value = ""
 })
