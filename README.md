@@ -32,6 +32,6 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 If you have any questions or feedback, feel free to reach out:
 
-Riya Dahiya - [Email}(dahiyariya2001@gmail.com)
+Riya Dahiya - [Email](dahiyariya2001@gmail.com)
 
 Project Link: Click [here](
